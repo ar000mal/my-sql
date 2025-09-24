@@ -40,6 +40,22 @@ Each folder includes SQL scripts and a README describing the project.
 
 ---
 
+## 4. 📱 Mobile Store
+- **Database Name:** `online_bookstore`
+- Manages **mobile inventory** with details like brand, model, price, and stock.
+- Demonstrates:
+  - Creating a `mobile` table
+  - Inserting multiple mobile records
+  - Selecting mobiles based on conditions (`WHERE`, `OR`)
+  - Updating stock and price for a specific model
+  - Deleting a mobile by `id`
+  - Finding minimum & maximum prices
+  - Calculating total stock
+  - Selecting the top 2 most expensive mobiles
+- 📁 Folder: [`online_bookstore`](./online_bookstore)
+
+---
+
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
