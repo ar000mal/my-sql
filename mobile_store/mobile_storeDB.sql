@@ -1,0 +1,1 @@
+CREATE DATABASE mobile_store;  -- Create Mobile Store Database  

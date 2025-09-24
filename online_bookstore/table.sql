@@ -26,3 +26,5 @@ DELETE FROM books                               -- Delete a book with a specific
 WHERE book_id = 3;
 
 
+
+
