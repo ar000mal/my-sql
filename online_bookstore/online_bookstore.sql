@@ -1,1 +1,1 @@
-CREATE DATABASE online_bookstore;    
+CREATE DATABASE online_bookstore;       -- Create Online Bookstore Database
